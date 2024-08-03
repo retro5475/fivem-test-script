@@ -1,0 +1,1 @@
+# fivem-test-script
